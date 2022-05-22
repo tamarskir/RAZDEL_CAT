@@ -19,7 +19,7 @@ setuptools.setup(
 
 	long_description_content_type="text/markdown",
 	
-	url="",
+	url="https://github.com/tamarskir/RAZDEL_CAT.git",
 
 	packages=setuptools.find_packages(),
 	
